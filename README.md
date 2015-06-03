@@ -1,2 +1,2 @@
-# node-bitcoinj-compat
-bitcoinj compat wallet
+# node-bitcoin-compat-wallets
+bitcoin compat wallets
