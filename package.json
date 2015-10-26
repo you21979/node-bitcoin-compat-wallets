@@ -1,20 +1,16 @@
 {
   "author": "yuki akiyama",
   "name": "bitcoin-compat-wallets",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": false,
   "dependencies": {
-    "bitcore" : "",
-    "bitcore-mnemonic" : ""
+    "bitcore-lib" : "0.13.*",
+    "bitcore-mnemonic" : "1.0.*"
   },
   "readmeFilename": "README.md",
   "description": "",
   "main": "index.js",
   "devDependencies": {
-    "moment" : "",
-    "bluebird" : "",
-    "mocha" : "",
-    "power-assert" : ""
   },
   "scripts": {
     "test": ""
